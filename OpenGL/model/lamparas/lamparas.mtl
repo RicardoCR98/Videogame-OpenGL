@@ -1,0 +1,12 @@
+# Blender 3.6.2 MTL File: 'lamparas.blend'
+# www.blender.org
+
+newmtl LightGrid
+Ns 427.839264
+Ka 0.333715 0.333715 0.333715
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd LightGrid_baseColor.jpeg
+map_Ke LightGrid_baseColor.jpeg

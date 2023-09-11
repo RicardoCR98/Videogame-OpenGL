@@ -1,0 +1,82 @@
+# Blender 3.6.2 MTL File: 'Map.blend'
+# www.blender.org
+
+newmtl BackRooms_Diffuse
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd BackRooms_Diffuse_baseColor.jpeg
+
+newmtl Color_M06
+Ns 351.816956
+Ka 0.839622 0.839622 0.839622
+Kd 0.102869 0.102869 0.102869
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl DoorGlass
+Ns 555.804504
+Ka 0.601907 0.601907 0.601907
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd DoorGlass_baseColor.jpeg
+
+newmtl DoorKnob
+Ns 76.279953
+Ka 0.309334 0.309334 0.309334
+Kd 0.016921 0.017468 0.019708
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Door_Diffuse
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Door_Diffuse_baseColor.png
+map_d Door_Diffuse_baseColor.png
+
+newmtl GreyColor
+Ns 21.959648
+Ka 1.000000 1.000000 1.000000
+Kd 0.766561 0.766561 0.766561
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl LightGrid
+Ns 427.839264
+Ka 0.333715 0.333715 0.333715
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd LightGrid_baseColor.jpeg
+map_Ke LightGrid_baseColor.jpeg
+
+newmtl PurpleRoom_Diffuse
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd PurpleRoom_Diffuse_baseColor.jpeg
+map_Ke PurpleRoom_Diffuse_emissive.jpeg
